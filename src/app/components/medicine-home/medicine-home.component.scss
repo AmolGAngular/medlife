@@ -1,0 +1,19 @@
+.search-heading{
+    min-width: 20%;
+    padding: 15px;
+}
+
+.input-group{
+    width: 94%;
+    box-shadow: 0px 4px 10px 0px rgb(0 0 0 / 16%);
+    position: relative;
+    bottom: 30px;
+
+    .input-group-text {
+        font-size: 1.00rem;
+    }
+
+    .search-input{
+        font-size: 1rem;
+    }
+}
