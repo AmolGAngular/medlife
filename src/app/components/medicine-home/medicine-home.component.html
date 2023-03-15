@@ -12,9 +12,9 @@
 
 <div class="container w-75">
     <div class="input-group input-group-lg rounded-3">
-        <span class="input-group-text search-heading bg-body" id="inputGroup-sizing-lg">Pune 560029 <span ><i class="bi bi-chevron-down text-primary ms-4 fs-5"></i></span> </span>
+        <span class="input-group-text search-heading bg-body" id="inputGroup-sizing-lg">{{showDefaultPinCode  ?   "Pune 560029" : pincodeDetails?.pincodeCity + " " + pincodeDetails?.pincode   }}  <span ><i class="bi bi-chevron-down text-primary ms-4 fs-5" data-bs-toggle="modal" data-bs-target="#exampleModal"></i></span> </span>
         <input type="text" class="form-control search-input" placeholder="Search Medicines" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
-        <span class="input-group-text search-heading bg-body text-primary fw-semibold" id="inputGroup-sizing-lg"><i class="bi bi-search ms-3 fs-5"></i>&nbsp;Search</span>
+        <span class="input-group-text search-heading bg-body text-primary fw-semibold" id="inputGroup-sizing-lg"><i class="bi bi-search ms-3 fs-5" ></i>&nbsp;Search</span>
     </div>
 </div>
 <div class="container w-75">
@@ -25,4 +25,25 @@
 
 <div class="container mt4">
    <app-top-deals></app-top-deals>
+</div>
+
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <label for="validationCustom01" class="form-label fs-5 fw-semibold">Set Your Location</label>
+        <input type="text" class="form-control" id="validationCustom01" value="" [(ngModel)]="pincode" maxlength="6" required>
+        <div class="invalid-feedback d-block" *ngIf="displayErrorMessage">
+          No Providers available at this pincode
+        </div>
+      </div>
+      <div class="d-grid gap-2 m-4">
+        <button class="btn btn-primary" type="button" (click)="VerifyPincode()">Submit</button>
+      </div>
+    </div>
+  </div>
 </div>

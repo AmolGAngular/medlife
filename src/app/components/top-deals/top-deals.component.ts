@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { OwlOptions } from 'ngx-owl-carousel-o';
+import { HttpService } from 'src/app/core/services/http.service';
 
 @Component({
   selector: 'app-top-deals',
@@ -7,10 +8,10 @@ import { OwlOptions } from 'ngx-owl-carousel-o';
   styleUrls: ['./top-deals.component.scss']
 })
 export class TopDealsComponent implements OnInit {
-
-  constructor() { }
-
+  topDeals:any[] = [] ;
+  constructor(private http:HttpService) { }
   ngOnInit(): void {
+    this.getTopDeals();
   }
 
   customOptions: OwlOptions = {
@@ -37,6 +38,18 @@ export class TopDealsComponent implements OnInit {
     },
     nav: true
   }
+
+  getTopDeals(){
+    this.http.getDataFromServer("top-deals").subscribe((el:any)=>{
+     if(el && el.length > 0){
+       this.topDeals = el ;
+       console.log("top-deals",this.topDeals);
+     }
+    },
+    error=>{
+     console.log(error);
+    })
+ }
 
 
 }
