@@ -1,0 +1,1138 @@
+{
+  "top-deals": [
+    {
+      "drugCode": 381015,
+      "actualPrice": 4,
+      "maxQuantity": 60,
+      "discountPrice": 4,
+      "description": "ELECTRAL POWDER 4.4GM",
+      "availability": "AVAILABLE",
+      "source": "skuMaster",
+      "type": "SACHET",
+      "isActive": 1,
+      "descriptionString": "4.4g Oral Powder in Sachet",
+      "discountPercentage": 0,
+      "productImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/381015.jpg"
+      ],
+      "composition": "ANHYDROUS DEXTROSE(2.7 GM)+POTASSIUM CHLORIDE(0.3 GM)+SODIUM CHLORIDE(0.52 GM)+SODIUM CITRATE(0.58 GM)",
+      "medicineType": "OTC_STORE",
+      "userLimit": 5,
+      "brand": "FDC LIMITED",
+      "medicineCategory": "Basic Health Essentials",
+      "medicineTag": [
+        "top_3_deals",
+        "top_8_deals"
+      ],
+      "productDetailSlug": "[]",
+      "isOtc": true,
+      "genericDosage": "ELECTRAL POWDER 4.4GM",
+      "drugForm": "ORAL POWDER",
+      "searchable": 1,
+      "medicineName": "ELECTRAL",
+      "schedule": "O",
+      "size": 1,
+      "rxRequired": false,
+      "name": "ELECTRAL POWDER 4.4GM",
+      "adjudicationFlag": 0,
+      "categoryId": 10,
+      "discountPercentageText": "0%",
+      "showAdjudicationFlag": false,
+      "adjudicationText": ""
+    },
+    {
+      "drugCode": 10014260,
+      "actualPrice": 50,
+      "maxQuantity": 10,
+      "discountPrice": 50,
+      "description": "HIMALAYA NEEM & TURMERIC SOAP 125GM",
+      "availability": "AVAILABLE",
+      "source": "skuMaster",
+      "type": "BOX",
+      "isActive": 1,
+      "descriptionString": "",
+      "discountPercentage": 0,
+      "productImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/10014260.jpg"
+      ],
+      "composition": "nan",
+      "medicineType": "OTC_STORE",
+      "userLimit": 5,
+      "brand": "THE HIMALAYA DRUG COMPANY",
+      "medicineCategory": "Hair and Skin Care",
+      "medicineTag": [
+        "top_8_deals"
+      ],
+      "productDetailSlug": "[]",
+      "isOtc": false,
+      "genericDosage": "HIMALAYA NEEM & TURMERIC SOAP 125GM",
+      "drugForm": "SOAP",
+      "searchable": 1,
+      "medicineName": "HIMALAYA NEEM",
+      "schedule": "C",
+      "size": 1,
+      "rxRequired": false,
+      "name": "HIMALAYA NEEM & TURMERIC SOAP 125GM",
+      "adjudicationFlag": 0,
+      "categoryId": 9,
+      "discountPercentageText": "0%",
+      "showAdjudicationFlag": false,
+      "adjudicationText": ""
+    },
+    {
+      "drugCode": 1000050509,
+      "actualPrice": 61,
+      "maxQuantity": 5,
+      "discountPrice": 61,
+      "description": "Dettol Antiseptic Liquid Bottle Of 125 Ml",
+      "availability": "AVAILABLE",
+      "source": "skuMaster",
+      "type": "BOTTLE",
+      "isActive": 1,
+      "descriptionString": "",
+      "discountPercentage": 0,
+      "productImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/1000050509.jpg"
+      ],
+      "composition": "ANTISEPTIC",
+      "medicineType": "OTC_STORE",
+      "userLimit": 5,
+      "brand": "RECKITT BENCKISER",
+      "medicineCategory": "Home Hygiene",
+      "medicineTag": [
+        "top_8_deals"
+      ],
+      "productDetailSlug": "[]",
+      "isOtc": true,
+      "genericDosage": "DETTOL ANTISEPTIC LIQUID BOTTLE OF 125 ML",
+      "drugForm": "LIQUID",
+      "searchable": 1,
+      "medicineName": "DETTOL ANTISEPTIC",
+      "schedule": "O",
+      "size": 125,
+      "rxRequired": false,
+      "name": "DETTOL ANTISEPTIC LIQUID BOTTLE OF 125 ML",
+      "adjudicationFlag": 0,
+      "categoryId": 4,
+      "discountPercentageText": "0%",
+      "showAdjudicationFlag": false,
+      "adjudicationText": ""
+    },
+    {
+      "drugCode": 10232784,
+      "actualPrice": 32,
+      "maxQuantity": 20,
+      "discountPrice": 32,
+      "description": "Whisper Choice Wings Sanitary Pads Regular-7 Pads",
+      "availability": "AVAILABLE",
+      "source": "skuMaster",
+      "type": "PACKET",
+      "isActive": 1,
+      "descriptionString": "",
+      "discountPercentage": 0,
+      "productImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/10232784.jpg"
+      ],
+      "composition": "nan",
+      "medicineType": "OTC_STORE",
+      "userLimit": 5,
+      "brand": "Procter and Gamble",
+      "medicineCategory": "Women Care",
+      "medicineTag": [
+        "top_3_deals",
+        "top_8_deals"
+      ],
+      "productDetailSlug": "[]",
+      "isOtc": true,
+      "genericDosage": "WHISPER CHOICE WINGS 7",
+      "drugForm": "PAD",
+      "searchable": 1,
+      "medicineName": "WHISPER",
+      "schedule": "O",
+      "size": 0,
+      "rxRequired": false,
+      "name": "WHISPER CHOICE WINGS 7",
+      "adjudicationFlag": 0,
+      "categoryId": 13,
+      "discountPercentageText": "0%",
+      "showAdjudicationFlag": false,
+      "adjudicationText": ""
+    },
+    {
+      "drugCode": 1000054657,
+      "actualPrice": 9,
+      "maxQuantity": 10,
+      "discountPrice": 9,
+      "description": "ENO LEMON SACHETS 5GM",
+      "availability": "AVAILABLE",
+      "source": "skuMaster",
+      "type": "Packet",
+      "isActive": 1,
+      "descriptionString": "O",
+      "discountPercentage": 0,
+      "productImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/1000054657.jpg"
+      ],
+      "medicineType": "OTC_STORE",
+      "userLimit": 5,
+      "brand": "",
+      "medicineCategory": "Basic Health Essentials",
+      "medicineTag": [
+        "top_3_deals",
+        "top_8_deals"
+      ],
+      "productDetailSlug": "[]",
+      "isOtc": true,
+      "genericDosage": "ENO LEMON SACHETS 5GM",
+      "searchable": 1,
+      "schedule": "O",
+      "size": 10,
+      "rxRequired": false,
+      "name": "ENO LEMON SACHETS 5GM",
+      "adjudicationFlag": 0,
+      "categoryId": 10,
+      "discountPercentageText": "0%",
+      "showAdjudicationFlag": false,
+      "adjudicationText": ""
+    },
+    {
+      "drugCode": 10220151,
+      "actualPrice": 36,
+      "maxQuantity": 20,
+      "discountPrice": 36,
+      "description": "Whisper Choice Ultra Sanitary Pads- Extra Large (6 pads)",
+      "availability": "AVAILABLE",
+      "source": "skuMaster",
+      "type": "PACK",
+      "isActive": 1,
+      "descriptionString": "",
+      "discountPercentage": 0,
+      "productImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/10220151.jpg"
+      ],
+      "composition": "nan",
+      "medicineType": "OTC_STORE",
+      "userLimit": 5,
+      "brand": "Procter and Gamble",
+      "medicineCategory": "Women Care",
+      "medicineTag": [
+        "top_3_deals",
+        "top_8_deals"
+      ],
+      "productDetailSlug": "[]",
+      "isOtc": true,
+      "genericDosage": "AMRUTANJAN COMFY ULTRA XL  SANITARY PADS  PACKET OF 6",
+      "drugForm": "SANITARY PAD",
+      "searchable": 1,
+      "medicineName": "AMRUTANJAN COMFY SNUG FIT",
+      "schedule": "O",
+      "size": 0,
+      "rxRequired": false,
+      "name": "AMRUTANJAN COMFY ULTRA XL  SANITARY PADS  PACKET OF 6",
+      "adjudicationFlag": 0,
+      "categoryId": 13,
+      "discountPercentageText": "0%",
+      "showAdjudicationFlag": false,
+      "adjudicationText": ""
+    },
+    {
+      "drugCode": 1000054665,
+      "actualPrice": 9,
+      "maxQuantity": 10,
+      "discountPrice": 9,
+      "description": "ENO ORANGE POWDER 5GM",
+      "availability": "AVAILABLE",
+      "source": "skuMaster",
+      "type": "Packet",
+      "isActive": 1,
+      "descriptionString": "O",
+      "discountPercentage": 0,
+      "productImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/1000054665.jpg"
+      ],
+      "medicineType": "OTC_STORE",
+      "userLimit": 5,
+      "brand": "",
+      "medicineCategory": "Basic Health Essentials",
+      "medicineTag": [
+        "top_8_deals"
+      ],
+      "productDetailSlug": "[]",
+      "isOtc": true,
+      "genericDosage": "ENO ORANGE POWDER 5GM",
+      "searchable": 1,
+      "schedule": "O",
+      "size": 10,
+      "rxRequired": false,
+      "name": "ENO ORANGE POWDER 5GM",
+      "adjudicationFlag": 0,
+      "categoryId": 10,
+      "discountPercentageText": "0%",
+      "showAdjudicationFlag": false,
+      "adjudicationText": ""
+    },
+    {
+      "drugCode": 1000054562,
+      "actualPrice": 330,
+      "maxQuantity": 10,
+      "discountPrice": 330,
+      "description": "Whisper Ultra Clean Sanitary Pads For Women XL+ 30 Free Whisper Ultra Night XXL+ 2 Napkins",
+      "availability": "AVAILABLE",
+      "source": "skuMaster",
+      "type": "Packet",
+      "isActive": 1,
+      "descriptionString": "O",
+      "discountPercentage": 0,
+      "productImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/1000054562.jpg"
+      ],
+      "medicineType": "OTC_STORE",
+      "userLimit": 5,
+      "brand": "Procter and Gamble",
+      "medicineCategory": "Dental Care",
+      "medicineTag": [
+        "top_8_deals"
+      ],
+      "productDetailSlug": "[]",
+      "isOtc": true,
+      "genericDosage": "Whisper Ultra Clean Sanitary Pads For Women XL+ 30 Free Whisper Ultra Night XXL+ 2 Napkins",
+      "searchable": 1,
+      "schedule": "O",
+      "size": 0,
+      "rxRequired": false,
+      "name": "Whisper Ultra Clean Sanitary Pads For Women XL+ 30 Free Whisper Ultra Night XXL+ 2 Napkins",
+      "adjudicationFlag": 0,
+      "categoryId": 13,
+      "discountPercentageText": "0%",
+      "showAdjudicationFlag": false,
+      "adjudicationText": ""
+    },
+    {
+      "drugCode": 1000054607,
+      "actualPrice": 3499,
+      "maxQuantity": 10,
+      "discountPrice": 3149,
+      "description": "Bigflex Essential whey Protein (Chocolate Truffle) - Pouch ( 1Kg )",
+      "availability": "AVAILABLE",
+      "source": "skuMaster",
+      "type": "Packet",
+      "isActive": 1,
+      "descriptionString": "O",
+      "discountPercentage": 10,
+      "productImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/1000054607.jpg"
+      ],
+      "medicineType": "OTC_STORE",
+      "userLimit": 5,
+      "brand": "Bigflex",
+      "medicineCategory": "Health Supplements",
+      "medicineTag": [
+        "top_8_deals"
+      ],
+      "productDetailSlug": "[]",
+      "isOtc": true,
+      "genericDosage": "Bigflex Essential whey Protein (Chocolate Truffle) - Pouch ( 1Kg )",
+      "searchable": 1,
+      "schedule": "O",
+      "size": 0,
+      "rxRequired": false,
+      "name": "Bigflex Essential whey Protein (Chocolate Truffle) - Pouch ( 1Kg )",
+      "adjudicationFlag": 0,
+      "categoryId": 16,
+      "discountPercentageText": "10%",
+      "showAdjudicationFlag": false,
+      "adjudicationText": ""
+    }
+  ],
+  "pin-code-details": [
+    {
+      "isAvailable": true,
+      "pincode": 111111,
+      "packageDetails": [
+        {
+          "packageName": "Medicine Pack",
+          "packageId": "457117a029f0e511aa80002219349965",
+          "providers": [
+            {
+              "name": "PharmEasy",
+              "dcid": "72326aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+              "isStorePickup": false,
+              "courierInfo": {
+                "discount": "20",
+                "deliveryTime": "4",
+                "pincode": "Delhi"
+              }
+            }
+          ]
+        }
+      ],
+      "pincodeCity": "Delhi",
+      "statusCode": "NonAuthoritativeInformation"
+    },
+    {
+      "isAvailable": true,
+      "pincode": 411046,
+      "packageDetails": [
+        {
+          "packageName": "Medicine Pack",
+          "packageId": "457117a029f0e511aa80002219349965",
+          "providers": [
+            {
+              "name": "PharmEasy",
+              "dcid": "72326aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+              "isStorePickup": false,
+              "courierInfo": {
+                "discount": "20",
+                "deliveryTime": "4",
+                "pincode": "411046"
+              }
+            }
+          ]
+        }
+      ],
+      "pincodeCity": "Pune",
+      "statusCode": "NonAuthoritativeInformation"
+    },
+    {
+      "isAvailable": true,
+      "pincode": 560030,
+      "packageDetails": [
+        {
+          "packageName": "Medicine Pack",
+          "packageId": "457117a029f0e511aa80002219349965",
+          "providers": [
+            {
+              "name": "PharmEasy",
+              "dcid": "72326aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+              "isStorePickup": false,
+              "courierInfo": {
+                "discount": "20",
+                "deliveryTime": "4",
+                "pincode": "560030"
+              }
+            }
+          ]
+        }
+      ],
+      "pincodeCity": "Banglore",
+      "statusCode": "NonAuthoritativeInformation"
+    },
+    {
+      "isAvailable": true,
+      "pincode": 600005,
+      "packageDetails": [
+        {
+          "packageName": "Apollo Pharmacy Package",
+          "packageId": "457117a029f0e511aa80002219349965",
+          "providers": [
+            {
+              "name": "Apollo",
+              "dcid": "199600aaaaaaaaaaaaaaaaaaaaaaaaaa",
+              "isStorePickup": true
+            }
+          ]
+        }
+      ],
+      "pincodeCity": "Chennai",
+      "statusCode": "NonAuthoritativeInformation"
+    }
+  ],
+  "top-deals-by-category": [
+    {
+      "id": 1,
+      "categoryName": "Baby Care",
+      "categoryType": "OTC",
+      "categoryOrder": 1,
+      "createdAt": "2022-06-20 18:38:53",
+      "updatedAt": "2022-07-21 06:31:44",
+      "deletedAt": null,
+      "categoryImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/baby_care.jpeg"
+      ],
+      "alternativeText": "Baby Care",
+      "categoryId": 1,
+      "top_deals": [
+        {
+          "drugCode": "1000054868",
+          "actualPrice": 1199,
+          "maxQuantity": "10",
+          "discountPrice": 1079,
+          "description": "Huggies wonder pants M 76s",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Packet",
+          "isActive": 1,
+          "descriptionString": "O",
+          "discountPercentage": "0.0",
+          "productImageSlug": [
+            "https://mb-meds-assets.medibuddy.in/medicineImages/1000054868.jpg"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": null,
+          "medicineCategory": "Baby Care",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "Huggies wonder pants M 76s",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 10,
+          "rxRequired": "FALSE",
+          "name": "Huggies wonder pants M 76s",
+          "adjudicationFlag": 2,
+          "categoryId": 1
+        },
+        {
+          "drugCode": "1000054871",
+          "actualPrice": 498,
+          "maxQuantity": "10",
+          "discountPrice": 498,
+          "description": "PAMPERS aloe wipes combo packs",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Packet",
+          "isActive": 1,
+          "descriptionString": "O",
+          "discountPercentage": "0.0",
+          "productImageSlug": [
+            "https://mb-meds-assets.medibuddy.in/medicineImages/1000054871.jpg"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": null,
+          "medicineCategory": "Baby Care",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "PAMPERS aloe wipes combo packs",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 10,
+          "rxRequired": "FALSE",
+          "name": "PAMPERS aloe wipes combo packs",
+          "adjudicationFlag": 2,
+          "categoryId": 1
+        },
+        {
+          "drugCode": "1000054509",
+          "actualPrice": 95,
+          "maxQuantity": "10",
+          "discountPrice": 71,
+          "description": "BE FRESH BABY DIAPER M - 5'S",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Packet",
+          "isActive": 1,
+          "descriptionString": "O",
+          "discountPercentage": "0.0",
+          "productImageSlug": [
+            "https://mb-meds-assets.medibuddy.in/medicineImages/1000054509.png"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "BE FRESH",
+          "medicineCategory": "Baby Care",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "FALSE",
+          "genericDosage": "BE FRESH BABY DIAPER M - 5'S",
+          "searchable": 1,
+          "schedule": "",
+          "size": 10,
+          "rxRequired": "FALSE",
+          "name": "BE FRESH BABY DIAPER M - 5'S",
+          "adjudicationFlag": 2,
+          "categoryId": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "Sexual Wellness",
+      "categoryType": "OTC",
+      "categoryOrder": 2,
+      "createdAt": "2022-06-20 18:38:53",
+      "updatedAt": "2022-07-27 13:11:40",
+      "deletedAt": null,
+      "categoryImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/Durex.jpg"
+      ],
+      "alternativeText": "Sexual Wellness",
+      "categoryId": 2,
+      "top_deals": [
+        {
+          "drugCode": "1000054905",
+          "actualPrice": 240,
+          "maxQuantity": "5",
+          "discountPrice": 240,
+          "description": "Manforce Epic Desire Super Thin Premium Condoms for Men, Silk Chocolate Flavour, Disposable Pouch (10 Count)",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Packet",
+          "isActive": 1,
+          "descriptionString": "Manforce Epic Desire Super Thin Premium Condoms for Men, Silk Chocolate Flavour, Disposable Pouch (10 Count)",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://m.media-amazon.com/images/I/71MSJZ1imWL._SX679_.jpg"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Mankind",
+          "medicineCategory": "Sexual Wellness",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "Manforce Epic Desire Super Thin Premium Condoms for Men, Silk Chocolate Flavour, Disposable Pouch (10 Count)",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 10,
+          "rxRequired": "FALSE",
+          "name": "Manforce Epic Desire Super Thin Premium Condoms for Men, Silk Chocolate Flavour, Disposable Pouch (10 Count)",
+          "adjudicationFlag": 1,
+          "categoryId": 2
+        },
+        {
+          "drugCode": "1000054917",
+          "actualPrice": 300,
+          "maxQuantity": "5",
+          "discountPrice": 300,
+          "description": "Manforce Lube, Lubrication Gel for Men & Women, Water-Based Gel, Skin-Friendly, Safe to Use with Condoms, Strawberry Flavoured, 60ml",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Tube",
+          "isActive": 1,
+          "descriptionString": "Manforce Lube, Lubrication Gel for Men & Women, Water-Based Gel, Skin-Friendly, Safe to Use with Condoms, Strawberry Flavoured, 60ml",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://m.media-amazon.com/images/I/51kkASjw+1L._SX679_.jpg"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Mankind",
+          "medicineCategory": "Sexual Wellness",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "Manforce Lube, Lubrication Gel for Men & Women, Water-Based Gel, Skin-Friendly, Safe to Use with Condoms, Strawberry Flavoured, 60ml",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 60,
+          "rxRequired": "FALSE",
+          "name": "Manforce Lube, Lubrication Gel for Men & Women, Water-Based Gel, Skin-Friendly, Safe to Use with Condoms, Strawberry Flavoured, 60ml",
+          "adjudicationFlag": 1,
+          "categoryId": 2
+        },
+        {
+          "drugCode": "1000054906",
+          "actualPrice": 80,
+          "maxQuantity": "5",
+          "discountPrice": 80,
+          "description": "Manforce Epic Desire Super Thin Premium Condoms for Men, Silk Chocolate Flavour, Disposable Pouch (3 Count)",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Packet",
+          "isActive": 1,
+          "descriptionString": "Manforce Epic Desire Super Thin Premium Condoms for Men, Silk Chocolate Flavour, Disposable Pouch (3 Count)",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://cdn01.pharmeasy.in/dam/products_otc/G89746/manforce-epic-desire-super-thin-premium-condoms-silk-chocolate-flavor-disposable-pouch-3-counts-3-1663683956.jpg?dim=700x0&dpr=1&q=100"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Mankind",
+          "medicineCategory": "Sexual Wellness",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "Manforce Epic Desire Super Thin Premium Condoms for Men, Silk Chocolate Flavour, Disposable Pouch (3 Count)",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 3,
+          "rxRequired": "FALSE",
+          "name": "Manforce Epic Desire Super Thin Premium Condoms for Men, Silk Chocolate Flavour, Disposable Pouch (3 Count)",
+          "adjudicationFlag": 1,
+          "categoryId": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoryName": "Wellness Series",
+      "categoryType": "OTC",
+      "categoryOrder": 3,
+      "createdAt": "2022-06-20 18:38:53",
+      "updatedAt": "2022-07-21 06:31:46",
+      "deletedAt": null,
+      "categoryImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/wellness_series.jpeg"
+      ],
+      "alternativeText": "Wellness Series",
+      "categoryId": 3,
+      "top_deals": [
+        {
+          "drugCode": "1000054933",
+          "actualPrice": 899,
+          "maxQuantity": "5",
+          "discountPrice": 899,
+          "description": "T.A.C - The Ayurveda Co. Fish Oil Capsules for Strong Joints & Immunity - 30 Softgel Capsules",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Bottle",
+          "isActive": 1,
+          "descriptionString": "T.A.C - The Ayurveda Co. Fish Oil Capsules for Strong Joints & Immunity - 30 Softgel Capsules",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://cdn.shopify.com/s/files/1/0579/0262/9029/products/8904422900035_1.jpg?v=1661165500"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Khadi Essential",
+          "medicineCategory": "Wellness Series",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "T.A.C - The Ayurveda Co. Fish Oil Capsules for Strong Joints & Immunity - 30 Softgel Capsules",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 30,
+          "rxRequired": "FALSE",
+          "name": "T.A.C - The Ayurveda Co. Fish Oil Capsules for Strong Joints & Immunity - 30 Softgel Capsules",
+          "adjudicationFlag": 1,
+          "categoryId": 3
+        },
+        {
+          "drugCode": "1000054954",
+          "actualPrice": 399,
+          "maxQuantity": "5",
+          "discountPrice": 399,
+          "description": "Vitamin C+Z",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Bottle",
+          "isActive": 1,
+          "descriptionString": "Vitamin C+Z",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://cdn.shopify.com/s/files/1/0240/2942/9840/products/Organic-Vitamin-C-_-Zinc_2_720x.jpg?v=1662002979"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Wellbeing Nutrition",
+          "medicineCategory": "Wellness Series",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "Vitamin C+Z",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 70,
+          "rxRequired": "FALSE",
+          "name": "Vitamin C+Z",
+          "adjudicationFlag": 1,
+          "categoryId": 3
+        },
+        {
+          "drugCode": "1000054926",
+          "actualPrice": 599,
+          "maxQuantity": "5",
+          "discountPrice": 599,
+          "description": "T.A.C - The Ayurveda Co. AyurBoost Tablets with Ashwagandha and Vitamin C| Stamina and Immunity Booster| Plant-based Extract - 30 Tablets",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Bottle",
+          "isActive": 1,
+          "descriptionString": "T.A.C - The Ayurveda Co. AyurBoost Tablets with Ashwagandha and Vitamin C| Stamina and Immunity Booster| Plant-based Extract - 30 Tablets",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://cdn.shopify.com/s/files/1/0579/0262/9029/products/705514810854_1.jpg?v=1661165541"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Khadi Essential",
+          "medicineCategory": "Wellness Series",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "T.A.C - The Ayurveda Co. AyurBoost Tablets with Ashwagandha and Vitamin C| Stamina and Immunity Booster| Plant-based Extract - 30 Tablets",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 150,
+          "rxRequired": "FALSE",
+          "name": "T.A.C - The Ayurveda Co. AyurBoost Tablets with Ashwagandha and Vitamin C| Stamina and Immunity Booster| Plant-based Extract - 30 Tablets",
+          "adjudicationFlag": 1,
+          "categoryId": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "categoryName": "Hair and Skin Care",
+      "categoryType": "OTC",
+      "categoryOrder": 4,
+      "createdAt": "2022-06-20 18:38:53",
+      "updatedAt": "2022-07-21 06:42:44",
+      "deletedAt": null,
+      "categoryImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/hair_skin_care.jpeg"
+      ],
+      "alternativeText": "Hair and Skin Care",
+      "categoryId": 9,
+      "top_deals": [
+        {
+          "drugCode": "1000054891",
+          "actualPrice": 550,
+          "maxQuantity": "5",
+          "discountPrice": 550,
+          "description": "Plum 3% Vitamin C Moisturizer with Mandarin (50 ml)",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Bottle",
+          "isActive": 1,
+          "descriptionString": "Plum 3% Vitamin C Moisturizer with Mandarin (50 ml)",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://cdn.shopify.com/s/files/1/0390/2985/products/Moodshot_1_c540ef74-cd43-4700-a453-bd97cbc700ec_grande.jpg?v=1645524344"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Plum",
+          "medicineCategory": "Hair and Skin Care",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "Plum 3% Vitamin C Moisturizer with Mandarin (50 ml)",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 50,
+          "rxRequired": "FALSE",
+          "name": "Plum 3% Vitamin C Moisturizer with Mandarin (50 ml)",
+          "adjudicationFlag": 1,
+          "categoryId": 9
+        },
+        {
+          "drugCode": "1000054918",
+          "actualPrice": 399,
+          "maxQuantity": "5",
+          "discountPrice": 399,
+          "description": "T.A.C - The Ayurveda Co. Onion Hair Oil for women and men with Ginger & Blackseed Extract For Hair Growth and Hair Fall Control - 100ml",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Bottle",
+          "isActive": 1,
+          "descriptionString": "T.A.C - The Ayurveda Co. Onion Hair Oil for women and men with Ginger & Blackseed Extract For Hair Growth and Hair Fall Control - 100ml",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://m.media-amazon.com/images/I/51j6z9YXWiL._SX679_.jpg"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Khadi Essential",
+          "medicineCategory": "Hair and Skin Care",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "T.A.C - The Ayurveda Co. Onion Hair Oil for women and men with Ginger & Blackseed Extract For Hair Growth and Hair Fall Control - 100ml",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 100,
+          "rxRequired": "FALSE",
+          "name": "T.A.C - The Ayurveda Co. Onion Hair Oil for women and men with Ginger & Blackseed Extract For Hair Growth and Hair Fall Control - 100ml",
+          "adjudicationFlag": 1,
+          "categoryId": 9
+        },
+        {
+          "drugCode": "1000054919",
+          "actualPrice": 299,
+          "maxQuantity": "5",
+          "discountPrice": 299,
+          "description": "T.A.C - The Ayurveda Co. 7% Kumkumadi Face Wash with 24k Gold Dust | For Exfoliating and Glowing Skin| All Skin Type - 100 ml",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Tube",
+          "isActive": 1,
+          "descriptionString": "T.A.C - The Ayurveda Co. 7% Kumkumadi Face Wash with 24k Gold Dust | For Exfoliating and Glowing Skin| All Skin Type - 100 ml",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://m.media-amazon.com/images/I/41k0LyxKqkL._SX679_.jpg"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Khadi Essential",
+          "medicineCategory": "Hair and Skin Care",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "T.A.C - The Ayurveda Co. 7% Kumkumadi Face Wash with 24k Gold Dust | For Exfoliating and Glowing Skin| All Skin Type - 100 ml",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 100,
+          "rxRequired": "FALSE",
+          "name": "T.A.C - The Ayurveda Co. 7% Kumkumadi Face Wash with 24k Gold Dust | For Exfoliating and Glowing Skin| All Skin Type - 100 ml",
+          "adjudicationFlag": 1,
+          "categoryId": 9
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "categoryName": "Home Hygiene",
+      "categoryType": "OTC",
+      "categoryOrder": 5,
+      "createdAt": "2022-06-20 18:38:53",
+      "updatedAt": "2022-07-21 06:33:30",
+      "deletedAt": null,
+      "categoryImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/home_hygiene.jpeg"
+      ],
+      "alternativeText": "Home Hygiene",
+      "categoryId": 4,
+      "top_deals": [
+        {
+          "drugCode": "1000051525",
+          "actualPrice": 128,
+          "maxQuantity": "5",
+          "discountPrice": 128,
+          "description": "DETTOL ANTISEPTIC LIQUID 250ML",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "BOTTLE",
+          "isActive": 1,
+          "descriptionString": "",
+          "discountPercentage": "0.0",
+          "productImageSlug": [
+            "https://mb-meds-assets.medibuddy.in/medicineImages/1000051525.png"
+          ],
+          "composition": "nan",
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Reckitt",
+          "medicineCategory": "Home Hygiene",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "DETTOL ANTISEPTIC LIQUID BOTTLE OF 250 ML",
+          "drugForm": "LIQUID",
+          "searchable": 1,
+          "medicineName": "DETTOL ANTISEPTIC",
+          "schedule": "O",
+          "size": null,
+          "rxRequired": "FALSE",
+          "name": "DETTOL ANTISEPTIC LIQUID BOTTLE OF 250 ML",
+          "adjudicationFlag": 2,
+          "categoryId": 4
+        },
+        {
+          "drugCode": "1000050071",
+          "actualPrice": 42,
+          "maxQuantity": "10",
+          "discountPrice": 42,
+          "description": "Dettol Liquid Handwash Refill - Skincare Moisturizing Hand Wash, 175ml",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "PACKET",
+          "isActive": 1,
+          "descriptionString": "",
+          "discountPercentage": 0,
+          "productImageSlug": [
+            "https://mb-meds-assets.medibuddy.in/medicineImages/1000050071.jpg"
+          ],
+          "composition": "CONSUMER PRODUCTS",
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "RECKITT BENCKISER",
+          "medicineCategory": "Home Hygiene",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "FALSE",
+          "genericDosage": "DETTOL LIQUID HANDWASH REFILL - SKINCARE MOISTURIZING HAND WASH, 175ML",
+          "drugForm": "LIQUID",
+          "searchable": 1,
+          "medicineName": "DETTOL ORIGINAL",
+          "schedule": "C",
+          "size": 175,
+          "rxRequired": "FALSE",
+          "name": "DETTOL LIQUID HANDWASH REFILL - SKINCARE MOISTURIZING HAND WASH, 175ML",
+          "adjudicationFlag": 1,
+          "categoryId": 4
+        },
+        {
+          "drugCode": "1000054890",
+          "actualPrice": 80,
+          "maxQuantity": "10",
+          "discountPrice": 60,
+          "description": "H & Q HAND SANITIZER 100 ML",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Bottle",
+          "isActive": 1,
+          "descriptionString": "O",
+          "discountPercentage": "0.0",
+          "productImageSlug": [
+            "https://mb-meds-assets.medibuddy.in/medicineImages/1000054890.jpg"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": null,
+          "medicineCategory": "Home Hygiene",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "H & Q HAND SANITIZER 100 ML",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 10,
+          "rxRequired": "FALSE",
+          "name": "H & Q HAND SANITIZER 100 ML",
+          "adjudicationFlag": 2,
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "categoryName": "Health Supplements",
+      "categoryType": "OTC",
+      "categoryOrder": 6,
+      "createdAt": "2022-07-19 18:51:10",
+      "updatedAt": "2022-07-21 06:42:51",
+      "deletedAt": null,
+      "categoryImageSlug": [
+        "https://mb-meds-assets.medibuddy.in/medicineImages/health_supplement.jpeg"
+      ],
+      "alternativeText": "Health Supplements",
+      "categoryId": 16,
+      "top_deals": [
+        {
+          "drugCode": "1000054956",
+          "actualPrice": 649,
+          "maxQuantity": "5",
+          "discountPrice": 649,
+          "description": "Natural Vitamin D3+K2",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Strips",
+          "isActive": 1,
+          "descriptionString": "Natural Vitamin D3+K2",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://cdn.kindlife.in/images/thumbnails/720/720/detailed/27/WBN19.jpg?t=1648641995"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Wellbeing Nutrition",
+          "medicineCategory": "Health Supplements",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "Natural Vitamin D3+K2",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 60,
+          "rxRequired": "FALSE",
+          "name": "Natural Vitamin D3+K2",
+          "adjudicationFlag": 1,
+          "categoryId": 16
+        },
+        {
+          "drugCode": "1000054912",
+          "actualPrice": 300,
+          "maxQuantity": "5",
+          "discountPrice": 300,
+          "description": "Mankind's Health Ok Multi Vitamin, Multimineral 30 Tablets",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Bottle",
+          "isActive": 1,
+          "descriptionString": "Mankind's Health Ok Multi Vitamin, Multimineral 30 Tablets",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://m.media-amazon.com/images/I/61UfQf3JKIL._SX679_.jpg"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Mankind",
+          "medicineCategory": "Health Supplements",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "Mankind's Health Ok Multi Vitamin, Multimineral 30 Tablets",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 30,
+          "rxRequired": "FALSE",
+          "name": "Mankind's Health Ok Multi Vitamin, Multimineral 30 Tablets",
+          "adjudicationFlag": 1,
+          "categoryId": 16
+        },
+        {
+          "drugCode": "1000054957",
+          "actualPrice": 649,
+          "maxQuantity": "5",
+          "discountPrice": 649,
+          "description": "Sleep",
+          "availability": "AVAILABLE",
+          "source": "skuMaster",
+          "type": "Strips",
+          "isActive": 1,
+          "descriptionString": "Sleep",
+          "discountPercentage": "0",
+          "productImageSlug": [
+            "https://cdn.shopify.com/s/files/1/0240/2942/9840/products/7.Restful-Sleep_720x.jpg?v=1656348373"
+          ],
+          "medicineType": "OTC_STORE",
+          "userLimit": "5",
+          "brand": "Wellbeing Nutrition",
+          "medicineCategory": "Health Supplements",
+          "medicineTag": [
+            "top_3_deals"
+          ],
+          "productDetailSlug": "[]",
+          "isOtc": "TRUE",
+          "genericDosage": "Sleep",
+          "searchable": 1,
+          "schedule": "O",
+          "size": 60,
+          "rxRequired": "FALSE",
+          "name": "Sleep",
+          "adjudicationFlag": 1,
+          "categoryId": 16
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<app-top-deals-header></app-top-deals-header>
+
+<div class="container w-75 rounded-3 p-5 mt-5 shadow">
+    <div class="row">
+      <div class="col-md-6">
+        <img [src]="productDetails?.productImageSlug[0]" alt="" height="300" width="400">
+      </div>
+      <div class="col-md-6">
+          <h5 class="mt-4">{{productDetails?.description}}</h5>
+          <p class="mt-2">{{productDetails?.composition}}</p>
+      </div>
+    </div>
+</div>
