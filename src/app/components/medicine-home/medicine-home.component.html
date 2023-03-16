@@ -23,7 +23,12 @@
    </div>
 </div>
 
-<div class="container mt4">
+<div class="container mt5">
+   <div class="clearfix ">
+    <h3 class="float-start">Top Deals</h3>
+    <a routerLink="/top-deals-by-category" class="fs-4 text-decoration-none float-end cursor">View All</a>
+   </div>
+
    <app-top-deals></app-top-deals>
 </div>
 
@@ -32,7 +37,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" #closeBtn></button>
       </div>
       <div class="modal-body">
         <label for="validationCustom01" class="form-label fs-5 fw-semibold">Set Your Location</label>
