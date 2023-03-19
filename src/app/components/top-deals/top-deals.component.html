@@ -9,7 +9,7 @@
           <div class="card-body" style="height:162px;">
             <h5 class="card-title card-description" [title]="slide.description">{{slide.description}}</h5>
             <p class="card-text text-muted">{{slide.type}}</p>
-            <p class="card-text">MRP ₹&nbsp; <span class="me-2 text-decoration-line-through" *ngIf="slide.actualPrice != slide.discountPrice">{{slide.actualPrice}}</span> {{slide.discountPrice}}<button type="button" class="btn btn-outline-primary ms-4 btn-sm">ADD</button></p>
+            <p class="card-text">MRP ₹&nbsp; <span class="me-2 text-decoration-line-through" *ngIf="slide.actualPrice != slide.discountPrice">{{slide.actualPrice}}</span> {{slide.discountPrice}}<button type="button" class="btn btn-outline-primary ms-4 btn-sm" (click)="addToCart(slide)">ADD</button></p>
           </div>
         </div>
       </ng-template>

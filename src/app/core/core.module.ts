@@ -5,7 +5,8 @@ import { FooterComponent } from './components/footer/footer.component';
 import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
 import { SignInComponent } from './components/sign-in/sign-in.component';
 import { SignUpComponent } from './components/sign-up/sign-up.component';
-import { ReactiveFormsModule } from '@angular/forms';
+import { ReactiveFormsModule } from '@angular/forms'; 
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
@@ -13,11 +14,13 @@ import { ReactiveFormsModule } from '@angular/forms';
     FooterComponent,
     PageNotFoundComponent,
     SignInComponent,
-    SignUpComponent
+    SignUpComponent,
+    // RouterModule
   ],
   imports: [
     CommonModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    RouterModule
   ],
   exports:[
     HeaderComponent,

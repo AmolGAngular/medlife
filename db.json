@@ -1135,5 +1135,13 @@
       ]
     }
   ],
-  "users":[]
+  "users": [
+    {
+      "userName": "test123",
+      "password": "password",
+      "mobileNumber": "8989898989",
+      "isMobNoVerified": true,
+      "id": 1
+    }
+  ]
 }
