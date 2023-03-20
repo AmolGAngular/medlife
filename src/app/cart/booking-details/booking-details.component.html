@@ -1,0 +1,101 @@
+<div class="container shadow-sm mt-2 w-50 py-5 border">
+    <div class="row text-center">
+        <h3>Booking Details</h3>
+        <p class="mt-2 py-2 bg-primary text-light">Customer/Patient Details</p>
+    </div>
+    <form [formGroup]="bookingForm" (ngSubmit)="placeOrder()">
+    <div class="row ms-5">
+        <div class="col-md-3">
+            <label for="inputPassword1" class="">Whom</label>
+        </div>
+        <div class="col-md-9 text-end">
+            <input type="text" id="inputPassword1" class="form-control w-75" formControlName="customerName">
+        </div>
+    </div>
+    <div class="row mt-3 ms-5">
+        <div class="col-md-3">
+            <label for="inputPassword2" class="">Mobile Number</label>
+        </div>
+        <div class="col-md-9 text-end">
+            <input type="text" id="inputPassword2" class="form-control w-75" formControlName="mobileNo">
+        </div>
+    </div>
+    <div class="row mt-3 ms-5">
+        <div class="col-md-3">
+            <label for="input2" class="">Gender</label>
+        </div>
+        <div class="col-md-9">
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="input2" value="Male"  name="gender" formControlName="gender">
+                <label class="form-check-label" for="input2">Male</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="input3" value="Female"  name="gender" formControlName="gender">
+                <label class="form-check-label" for="input3">Female</label>
+              </div>
+        </div>
+        
+    </div>
+    <div class="row mt-3 ms-5">
+        <div class="col-md-3">
+            <label for="input4" class="">Date Of Birth</label>
+        </div>
+        <div class="col-md-9 text-end">
+            <input type="date" id="input4" class="form-control w-75" formControlName="dateOfBirth">
+        </div>
+    </div>
+    <div class="row mt-3 ms-5">
+        <div class="col-md-3">
+            <label for="input5" class="">Email Id</label>
+        </div>
+        <div class="col-md-9 text-end">
+            <input type="text" id="input5" class="form-control w-75" formControlName="emailId">
+        </div>
+    </div>
+    <h5 class="mt-5 text-center"><u>Delivery Address</u></h5>
+    <div formGroupName="address">
+      <div class="row g-3 mt-3 ms-5 needs-validation" novalidate>
+          <div class="col-md-4">
+            <label for="validationCustom01" class="form-label">Flat/House Number</label>
+            <input type="text" class="form-control" id="validationCustom01" formControlName="line1">
+          </div>
+          <div class="col-md-4">
+            <label for="validationCustom02" class="form-label">Area, Colony</label>
+            <input type="text" class="form-control" id="validationCustom02" formControlName="line2">
+          </div>
+          <div class="col-md-4">
+            <label for="validationCustomUsername" class="form-label">Landmark</label>
+            <div class="input-group has-validation">
+              <input type="text" class="form-control" id="validationCustomUsername" formControlName="landmark">
+            </div>
+          </div>
+          <div class="col-md-6">
+            <label for="validationCustom03" class="form-label">City</label>
+            <input type="text" class="form-control" id="validationCustom03" formControlName="city">
+          </div>
+          <div class="col-md-3">
+            <label for="validationCustom04" class="form-label">State</label>
+            <select class="form-select" id="validationCustom04" formControlName="state">
+              <option selected disabled value="">Choose...</option>
+              <option>Maharashtra</option>
+            </select>
+          </div>
+          <div class="col-md-3">
+            <label for="validationCustom05" class="form-label">Zip</label>
+            <input type="text" class="form-control" id="validationCustom05" formControlName="pincode">
+          </div>
+          <div class="col-12">
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" value="" id="invalidCheck">
+              <label class="form-check-label" for="invalidCheck">
+                Agree to terms and conditions
+              </label>
+            </div>
+          </div>
+          <div class="d-grid gap-2">
+              <button class="btn btn-primary" type="submit">Book</button>
+            </div>
+      </div>
+    </div>
+  </form>
+</div>

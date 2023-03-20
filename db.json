@@ -1143,5 +1143,121 @@
       "isMobNoVerified": true,
       "id": 1
     }
+  ],
+  "orders": [
+    {
+      "customerName": "Mike",
+      "mobileNo": "9090909090",
+      "gender": true,
+      "dateOfBirth": "2023-03-01",
+      "emailId": "test@gmail.com",
+      "address": {
+        "line1": "gjhg",
+        "line2": "gjhg",
+        "landmark": "gjh",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pincode": "411041"
+      },
+      "products": [
+        {
+          "productName": "HIMALAYA NEEM & TURMERIC SOAP 125GM",
+          "brand": "THE HIMALAYA DRUG COMPANY",
+          "type": "BOX",
+          "drugCode": 10014260,
+          "actualPrice": 50,
+          "discountedPrice": 50,
+          "quantity": 2,
+          "productTotalPrice": 100
+        },
+        {
+          "productName": "Dettol Antiseptic Liquid Bottle Of 125 Ml",
+          "brand": "RECKITT BENCKISER",
+          "type": "BOTTLE",
+          "drugCode": 1000050509,
+          "actualPrice": 61,
+          "discountedPrice": 61,
+          "quantity": 2,
+          "productTotalPrice": 122
+        }
+      ],
+      "totalAmount": 222,
+      "totalDiscount": 10,
+      "finalAmountToPay": 212,
+      "orderId": 2942888,
+      "id": 1
+    },
+    {
+      "customerName": "AMol",
+      "mobileNo": "8989898989",
+      "gender": true,
+      "dateOfBirth": "2023-03-02",
+      "emailId": "test@gmail.com",
+      "address": {
+        "line1": "Sai Sayaji Nagar",
+        "line2": "Area",
+        "landmark": "jgjhgh",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pincode": "411041"
+      },
+      "products": [
+        {
+          "productName": "HIMALAYA NEEM & TURMERIC SOAP 125GM",
+          "brand": "THE HIMALAYA DRUG COMPANY",
+          "type": "BOX",
+          "drugCode": 10014260,
+          "actualPrice": 50,
+          "discountedPrice": 50,
+          "quantity": 1,
+          "productTotalPrice": 50
+        },
+        {
+          "productName": "Dettol Antiseptic Liquid Bottle Of 125 Ml",
+          "brand": "RECKITT BENCKISER",
+          "type": "BOTTLE",
+          "drugCode": 1000050509,
+          "actualPrice": 61,
+          "discountedPrice": 61,
+          "quantity": 1,
+          "productTotalPrice": 61
+        },
+        {
+          "productName": "Dettol Antiseptic Liquid Bottle Of 125 Ml",
+          "brand": "RECKITT BENCKISER",
+          "type": "BOTTLE",
+          "drugCode": 1000050509,
+          "actualPrice": 61,
+          "discountedPrice": 61,
+          "quantity": 1,
+          "productTotalPrice": 61
+        },
+        {
+          "productName": "ELECTRAL POWDER 4.4GM",
+          "brand": "FDC LIMITED",
+          "type": "SACHET",
+          "drugCode": 381015,
+          "actualPrice": 4,
+          "discountedPrice": 4,
+          "quantity": 1,
+          "productTotalPrice": 4
+        },
+        {
+          "productName": "HIMALAYA NEEM & TURMERIC SOAP 125GM",
+          "brand": "THE HIMALAYA DRUG COMPANY",
+          "type": "BOX",
+          "drugCode": 10014260,
+          "actualPrice": 50,
+          "discountedPrice": 50,
+          "quantity": 1,
+          "productTotalPrice": 50
+        }
+      ],
+      "totalAmount": 226,
+      "totalDiscount": 10,
+      "finalAmountToPay": 216,
+      "orderId": 3649931,
+      "id": 2
+    }
   ]
 }
